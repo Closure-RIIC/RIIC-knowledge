@@ -4,7 +4,7 @@
 
 ## 这个仓库是什么
 
-明日方舟基建 RAG 知识库。知识正文是 `docs/` 下的 7 个内容模块（110 篇），配套 `skill/` 场景问答手册与 `agent/SYSTEM_PROMPT.md` 行为总则。`skill/`、`index/`、`agent/` 属行为与检索支撑层，不是知识语料。
+明日方舟基建 RAG 知识库。知识正文是 `docs/` 下的 7 个内容模块（112 篇），配套 `skill/` 场景问答手册与 `agent/SYSTEM_PROMPT.md` 行为总则。`skill/`、`index/`、`agent/` 属行为与检索支撑层，不是知识语料。
 
 ## 建议读取顺序
 
